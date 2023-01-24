@@ -1,0 +1,28 @@
+h1{
+    color:aqua;
+    background-color: black;
+    margin-left: 10px;
+}
+
+.My{
+    color:white;
+}
+
+h2{
+    text-align: center;
+    font-style: italic;
+    color: white;
+    background-color: blueviolet;
+}
+
+h3{
+    text-align: right;
+    font-weight: lighter;
+    color:black;
+    background-color: skyblue;
+    margin-right: 10px;
+}
+
+a{
+    color:black;
+}
